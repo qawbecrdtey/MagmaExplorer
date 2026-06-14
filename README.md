@@ -155,3 +155,7 @@ uv run pytest          # unit + TUI smoke tests
 uv run ruff check .    # lint
 uv run ruff format .   # format
 ```
+
+## Disclaimer
+
+At the time of release of the project (2026-06-14), the entire code base was written with Claude Code.
